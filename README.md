@@ -1,0 +1,2 @@
+# Clustering Countries with K-Means
+This project attempts to support the HELP International organization in classifying countries according to economic and health-related factors. HELP International is a non-governmental international humanitarian organization that raises funds up to $10 million to deal with poverty in developing nations. The priorities of the nation's development will be decided by the results of the project.
